@@ -4,7 +4,7 @@
 
 This report provides a comprehensive analysis of TrendMart's advertising campaign performance over the past month. Utilizing a data-driven approach, we've identified key successes and pinpointed areas requiring strategic refinement.
 
-## Performance Metrics
+## Performance Metrics 
 
 ### Ad Campaign Performance
 
